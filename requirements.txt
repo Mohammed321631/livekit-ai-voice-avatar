@@ -1,0 +1,7 @@
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-tavus
+livekit-plugins-deepgram
+livekit-plugins-rime
+python-dotenv
+livekit-plugins-google
